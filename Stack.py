@@ -38,7 +38,3 @@ class Stack:
         else:
             temp = self.x[0]
             print("The bottom of the stack is {}.".format(temp))
-
-
-        
-        
